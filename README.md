@@ -1,6 +1,8 @@
 # Codeforces Solutions
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MRADUL_GUPTA1)
+<h2>CodeForces ID: <a href="https://codeforces.com/profile/MRADUL_GUPTA1"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a></h2>
+
+
 
 ## 📊 Stats
 
