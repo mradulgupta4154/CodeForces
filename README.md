@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 8 |
+| 27 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (23)
@@ -34,6 +34,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
+| 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | Unrated | [Python 3](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2250/B%20-%20String%20Construction/solution.py) |
 
 ### dp
 
