@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 34 | 8 |
+| 35 | 8 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (28)
-- [math](#math) (5)
-- [sortings](#sortings) (2)
+- [implementation](#implementation) (29)
+- [math](#math) (6)
+- [sortings](#sortings) (3)
 - [strings](#strings) (8)
 
 ---
@@ -76,6 +76,7 @@
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
+| 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
@@ -90,6 +91,7 @@
 |---|---------|------------|----------|
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
+| 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
@@ -100,6 +102,7 @@
 |---|---------|------------|----------|
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 
 ### strings
 
