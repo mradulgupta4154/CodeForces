@@ -6,20 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 45 | 12 |
+| 46 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (4)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [brute force](#brute-force) (5)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [dp](#dp) (2)
 - [games](#games) (2)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (36)
-- [math](#math) (9)
+- [implementation](#implementation) (37)
+- [math](#math) (10)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (4)
 - [strings](#strings) (9)
@@ -39,6 +39,7 @@
 |---|---------|------------|----------|
 | 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/268/A%20-%20Games/solution.cpp) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 
@@ -47,6 +48,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | Unrated | [Python 3](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2250/B%20-%20String%20Construction/solution.py) |
 
 ### dp
@@ -103,6 +105,7 @@
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
@@ -122,6 +125,7 @@
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
