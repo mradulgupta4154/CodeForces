@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 40 | 10 |
+| 41 | 10 |
 
 ---
 
@@ -17,8 +17,8 @@
 - [dp](#dp) (2)
 - [games](#games) (2)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (32)
-- [math](#math) (7)
+- [implementation](#implementation) (33)
+- [math](#math) (8)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (4)
 - [strings](#strings) (9)
@@ -77,6 +77,7 @@
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/136/A%20-%20Presents/solution.cpp) |
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.cpp) |
+| 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
@@ -104,6 +105,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
