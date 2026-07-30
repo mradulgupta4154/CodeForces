@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 61 | 13 |
+| 62 | 13 |
 
 ---
 
@@ -19,10 +19,10 @@
 - [dp](#dp) (2)
 - [games](#games) (2)
 - [greedy](#greedy) (10)
-- [implementation](#implementation) (46)
+- [implementation](#implementation) (47)
 - [math](#math) (15)
 - [number theory](#number-theory) (2)
-- [sortings](#sortings) (6)
+- [sortings](#sortings) (7)
 - [strings](#strings) (10)
 - [two pointers](#two-pointers) (1)
 
@@ -134,6 +134,7 @@
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1692/A%20-%20Marathon/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
+| 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
@@ -176,6 +177,7 @@
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.cpp) |
 | 1472D | [Even-Odd Game](https://codeforces.com/contest/1472/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1472/D%20-%20Even-Odd%20Game/solution.cpp) |
+| 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 
 ### strings
