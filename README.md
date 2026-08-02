@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 97 | 16 |
+| 98 | 16 |
 
 ---
 
@@ -22,10 +22,10 @@
 - [games](#games) (3)
 - [greedy](#greedy) (18)
 - [implementation](#implementation) (69)
-- [math](#math) (29)
+- [math](#math) (30)
 - [number theory](#number-theory) (4)
 - [probabilities](#probabilities) (1)
-- [sortings](#sortings) (12)
+- [sortings](#sortings) (13)
 - [strings](#strings) (13)
 - [two pointers](#two-pointers) (2)
 
@@ -226,6 +226,7 @@
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.cpp) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 
 ### number theory
 
@@ -257,6 +258,7 @@
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.cpp) |
 
 ### strings
