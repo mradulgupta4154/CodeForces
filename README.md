@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 95 | 16 |
+| 96 | 16 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (12)
-- [constructive algorithms](#constructive-algorithms) (3)
+- [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
 - [expression parsing](#expression-parsing) (1)
@@ -66,6 +66,7 @@
 |---|---------|------------|----------|
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
+| 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | Unrated | [Python 3](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2250/B%20-%20String%20Construction/solution.py) |
 
 ### data structures
