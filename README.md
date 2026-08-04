@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 110 | 17 |
+| 111 | 17 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (3)
 - [greedy](#greedy) (22)
-- [implementation](#implementation) (73)
+- [implementation](#implementation) (74)
 - [math](#math) (37)
 - [number theory](#number-theory) (6)
 - [probabilities](#probabilities) (1)
@@ -189,6 +189,7 @@
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.cpp) |
 | 1722A | [Spell Check](https://codeforces.com/contest/1722/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1722/A%20-%20Spell%20Check/solution.cpp) |
+| 1722B | [Colourblindness](https://codeforces.com/contest/1722/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1722/B%20-%20Colourblindness/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1742/B%20-%20Increasing/solution.cpp) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
