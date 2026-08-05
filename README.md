@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 126 | 17 |
+| 127 | 17 |
 
 ---
 
@@ -14,14 +14,14 @@
 
 - [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (17)
+- [brute force](#brute-force) (18)
 - [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (3)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (4)
 - [greedy](#greedy) (27)
-- [implementation](#implementation) (83)
+- [implementation](#implementation) (84)
 - [math](#math) (44)
 - [number theory](#number-theory) (6)
 - [probabilities](#probabilities) (1)
@@ -66,6 +66,7 @@
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1873/B%20-%20Good%20Kid/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
+| 2009B | [osu!mania](https://codeforces.com/contest/2009/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2009/B%20-%20osu!mania/solution.cpp) |
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 
@@ -229,6 +230,7 @@
 | 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.cpp) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
+| 2009B | [osu!mania](https://codeforces.com/contest/2009/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2009/B%20-%20osu!mania/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 
 ### math
