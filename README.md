@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 159 | 18 |
+| 160 | 18 |
 
 ---
 
@@ -22,11 +22,11 @@
 - [games](#games) (5)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (33)
-- [implementation](#implementation) (98)
+- [implementation](#implementation) (99)
 - [math](#math) (57)
 - [number theory](#number-theory) (9)
 - [probabilities](#probabilities) (1)
-- [sortings](#sortings) (23)
+- [sortings](#sortings) (24)
 - [strings](#strings) (24)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (2)
@@ -254,6 +254,7 @@
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
+| 1850B | [Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B) | 800 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1850/B%20-%20Ten%20Words%20of%20Wisdom/solution.c) |
 | 1850C | [Word on the Paper](https://codeforces.com/contest/1850/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1850/C%20-%20Word%20on%20the%20Paper/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
@@ -373,6 +374,7 @@
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
+| 1850B | [Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B) | 800 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1850/B%20-%20Ten%20Words%20of%20Wisdom/solution.c) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.cpp) |
