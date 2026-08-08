@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 152 | 18 |
+| 153 | 18 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [number theory](#number-theory) (9)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (23)
-- [strings](#strings) (23)
+- [strings](#strings) (24)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (2)
 
@@ -391,6 +391,7 @@
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1829/A%20-%20Love%20Story/solution.cpp) |
 | 1850C | [Word on the Paper](https://codeforces.com/contest/1850/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1850/C%20-%20Word%20on%20the%20Paper/solution.cpp) |
+| 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1883/B%20-%20Chemistry/solution.cpp) |
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.cpp) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
 | 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.cpp) |
