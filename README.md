@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 157 | 18 |
+| 158 | 18 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [data structures](#data-structures) (2)
 - [dp](#dp) (5)
 - [expression parsing](#expression-parsing) (1)
-- [games](#games) (4)
+- [games](#games) (5)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (33)
 - [implementation](#implementation) (98)
@@ -117,6 +117,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 959A | [Mahmoud and Ehab and the even-odd game](https://codeforces.com/contest/959/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/959/A%20-%20Mahmoud%20and%20Ehab%20and%20the%20even-odd%20game/solution.cpp) |
+| 1373B | [01 Game](https://codeforces.com/contest/1373/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1373/B%20-%2001%20Game/solution.cpp) |
 | 1472D | [Even-Odd Game](https://codeforces.com/contest/1472/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1472/D%20-%20Even-Odd%20Game/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
