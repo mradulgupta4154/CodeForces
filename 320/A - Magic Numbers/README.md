@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/320/problem/A" target="_blank" rel="noopener noreferrer">320A — Magic Numbers</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 900 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 320A](https://codeforces.com/contest/320/problem/A) |
+
+## Topics
+`brute force` `greedy`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Magic Numbers</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>A magic number is a number formed by concatenation of numbers <span class="tex-span">1</span>, <span class="tex-span">14</span> and <span class="tex-span">144</span>. We can use each of these numbers any number of times. Therefore <span class="tex-span">14144</span>, <span class="tex-span">141414</span> and <span class="tex-span">1411</span> are magic numbers but <span class="tex-span">1444</span>, <span class="tex-span">514</span> and <span class="tex-span">414</span> are not.</p><p>You're given a number. Determine if it is a magic number or not.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of input contains an integer <span class="tex-span"><i>n</i></span>, <span class="tex-span">(1 ≤ <i>n</i> ≤ 10<sup class="upper-index">9</sup>)</span>. This number doesn't contain leading zeros.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print "<span class="tex-font-style-tt">YES</span>" if <span class="tex-span"><i>n</i></span> is a magic number or print "<span class="tex-font-style-tt">NO</span>" if it's not.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id003424560891124375" id="id0015191508503409146" class="input-output-copier">Copy</div></div><pre id="id003424560891124375">114114<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id007254927888101441" id="id0042900701938827057" class="input-output-copier">Copy</div></div><pre id="id007254927888101441">YES<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0007439247520135284" id="id002352828557483415" class="input-output-copier">Copy</div></div><pre id="id0007439247520135284">1111<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00348016665437339" id="id007274815276511646" class="input-output-copier">Copy</div></div><pre id="id00348016665437339">YES<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id000133366645795856" id="id009296768075799045" class="input-output-copier">Copy</div></div><pre id="id000133366645795856">441231<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id009745415737874408" id="id007551305587727002" class="input-output-copier">Copy</div></div><pre id="id009745415737874408">NO<br></pre></div></div></div>
