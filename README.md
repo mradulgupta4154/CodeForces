@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 178 | 19 |
+| 179 | 19 |
 
 ---
 
@@ -22,9 +22,9 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (5)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (42)
-- [implementation](#implementation) (106)
-- [math](#math) (62)
+- [greedy](#greedy) (43)
+- [implementation](#implementation) (107)
+- [math](#math) (63)
 - [number theory](#number-theory) (11)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (25)
@@ -160,6 +160,7 @@
 | 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.cpp) |
 | 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+| 1337B | [Kana and Dragon Quest game](https://codeforces.com/contest/1337/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1337/B%20-%20Kana%20and%20Dragon%20Quest%20game/solution.cpp) |
 | 1353B | [Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1353/B%20-%20Two%20Arrays%20And%20Swaps/solution.cpp) |
 | 1360A | [Minimal Square](https://codeforces.com/contest/1360/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1360/A%20-%20Minimal%20Square/solution.cpp) |
 | 1360B | [Honest Coach](https://codeforces.com/contest/1360/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1360/B%20-%20Honest%20Coach/solution.cpp) |
@@ -247,6 +248,7 @@
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/977/B%20-%20Two-gram/solution.c) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
+| 1337B | [Kana and Dragon Quest game](https://codeforces.com/contest/1337/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1337/B%20-%20Kana%20and%20Dragon%20Quest%20game/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1426/A%20-%20Floor%20Number/solution.cpp) |
@@ -323,6 +325,7 @@
 | 1294A | [Collecting Coins](https://codeforces.com/contest/1294/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1294/A%20-%20Collecting%20Coins/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
+| 1337B | [Kana and Dragon Quest game](https://codeforces.com/contest/1337/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1337/B%20-%20Kana%20and%20Dragon%20Quest%20game/solution.cpp) |
 | 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1343/A%20-%20Candies/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1360A | [Minimal Square](https://codeforces.com/contest/1360/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1360/A%20-%20Minimal%20Square/solution.cpp) |
