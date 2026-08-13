@@ -1,0 +1,25 @@
+<h2><a href="https://codeforces.com/contest/2132/problem/B" target="_blank" rel="noopener noreferrer">2132B — The Secret Number</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 900 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 2132B](https://codeforces.com/contest/2132/problem/B) |
+
+## Topics
+`math`
+
+---
+
+## Problem Statement
+
+<div class="header" bis_skin_checked="1"><div class="title" bis_skin_checked="1">B. The Secret Number</div><div class="time-limit" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">time limit per test</div>2 seconds</div><div class="memory-limit" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">input</div>standard input</div><div class="output-file output-standard" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">output</div>standard output</div></div><div bis_skin_checked="1"><p>Vadim has thought of a number $$$x$$$. To ensure that no one can guess it, he appended a positive number of zeros to the right of it, thus obtaining a new number $$$y$$$. However, as a precaution, Vadim decided to spread the number $$$n = x + y$$$. Find all suitable $$$x$$$ that Vadim could have thought of for the given $$$n$$$.</p></div><div class="input-specification" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Input</div><p>Each test consists of several test cases. The first line contains a single integer $$$t$$$ $$$(1 \le t \le 10^4)$$$ — the number of test cases. The following lines describe the test cases.</p><p>In a single line of each test case, there is an integer $$$n$$$ — the number spread by Vadim $$$(11 \le n \le 10^{18})$$$.</p></div><div class="output-specification" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Output</div><p>For each number $$$n$$$, output $$$0$$$ if there are no suitable $$$x$$$. Otherwise, output the number of suitable $$$x$$$, followed by all suitable $$$x$$$ <span class="tex-font-style-bf">in ascending order</span>.</p></div><div class="sample-tests" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Example</div><div class="sample-test" bis_skin_checked="1"><div class="input" bis_skin_checked="1"><div class="title" bis_skin_checked="1">Input<div title="Copy" data-clipboard-target="#id007527930460917092" id="id003769652256160626" class="input-output-copier" bis_skin_checked="1">Copy</div></div><pre id="id007527930460917092"><div class="test-example-line test-example-line-even test-example-line-0" bis_skin_checked="1">5</div><div class="test-example-line test-example-line-odd test-example-line-1" bis_skin_checked="1">1111</div><div class="test-example-line test-example-line-even test-example-line-2" bis_skin_checked="1">12</div><div class="test-example-line test-example-line-odd test-example-line-3" bis_skin_checked="1">55</div><div class="test-example-line test-example-line-even test-example-line-4" bis_skin_checked="1">999999999999999999</div><div class="test-example-line test-example-line-odd test-example-line-5" bis_skin_checked="1">1000000000000000000</div></pre></div><div class="output" bis_skin_checked="1"><div class="title" bis_skin_checked="1">Output<div title="Copy" data-clipboard-target="#id0035538653711351675" id="id004564461828449944" class="input-output-copier" bis_skin_checked="1">Copy</div></div><pre id="id0035538653711351675">2
+11 101
+0
+1
+5
+3
+999999999 999000999000999 90909090909090909
+0
+</pre></div></div></div><div class="note" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Note</div><p>In the first sample, to $$$11$$$ one can append two zeros to the right, then $$$11 + 1100 = 1111$$$, and to $$$101$$$ one can append one zero to the right, then $$$101 + 1010 = 1111$$$.</p><p>In the second sample, it is impossible to obtain $$$12$$$ through the described actions.</p></div>
