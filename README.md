@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 187 | 19 |
+| 188 | 19 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (28)
+- [brute force](#brute-force) (29)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (11)
 - [data structures](#data-structures) (2)
@@ -25,7 +25,7 @@
 - [greedy](#greedy) (46)
 - [implementation](#implementation) (108)
 - [math](#math) (69)
-- [number theory](#number-theory) (12)
+- [number theory](#number-theory) (13)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (25)
 - [strings](#strings) (29)
@@ -54,6 +54,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 80A | [Panoramix's Prediction](https://codeforces.com/contest/80/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/80/A%20-%20Panoramix's%20Prediction/solution.cpp) |
+| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 | 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/268/A%20-%20Games/solution.cpp) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
 | 320A | [Magic Numbers](https://codeforces.com/contest/320/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/320/A%20-%20Magic%20Numbers/solution.cpp) |
@@ -387,6 +388,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 26A | [Almost Prime](https://codeforces.com/contest/26/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/26/A%20-%20Almost%20Prime/solution.cpp) |
+| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 | 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.cpp) |
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
