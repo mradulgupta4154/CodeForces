@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 201 | 19 |
+| 202 | 19 |
 
 ---
 
@@ -23,14 +23,14 @@
 - [games](#games) (5)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (48)
-- [implementation](#implementation) (113)
+- [implementation](#implementation) (114)
 - [math](#math) (75)
 - [number theory](#number-theory) (14)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (26)
 - [strings](#strings) (32)
 - [ternary search](#ternary-search) (1)
-- [two pointers](#two-pointers) (3)
+- [two pointers](#two-pointers) (4)
 
 ---
 
@@ -281,6 +281,7 @@
 | 1669B | [Triple](https://codeforces.com/contest/1669/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1669/B%20-%20Triple/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1676/A%20-%20Lucky%3F/solution.cpp) |
+| 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.c) |
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1692/A%20-%20Marathon/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.cpp) |
@@ -504,6 +505,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
+| 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.c) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.c) |
 
