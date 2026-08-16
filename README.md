@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 199 | 19 |
+| 200 | 19 |
 
 ---
 
@@ -23,8 +23,8 @@
 - [games](#games) (5)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (48)
-- [implementation](#implementation) (112)
-- [math](#math) (73)
+- [implementation](#implementation) (113)
+- [math](#math) (74)
 - [number theory](#number-theory) (14)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (26)
@@ -239,6 +239,7 @@
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
 | 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/474/A%20-%20Keyboard/solution.cpp) |
+| 476A | [Dreamoon and Stairs](https://codeforces.com/contest/476/problem/A) | 1000 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/476/A%20-%20Dreamoon%20and%20Stairs/solution.c) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.cpp) |
 | 492A | [Vanya and Cubes](https://codeforces.com/contest/492/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/492/A%20-%20Vanya%20and%20Cubes/solution.cpp) |
@@ -329,6 +330,7 @@
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
 | 460A | [Vasya and Socks](https://codeforces.com/contest/460/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/460/A%20-%20Vasya%20and%20Socks/solution.cpp) |
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
+| 476A | [Dreamoon and Stairs](https://codeforces.com/contest/476/problem/A) | 1000 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/476/A%20-%20Dreamoon%20and%20Stairs/solution.c) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.cpp) |
