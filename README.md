@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 207 | 20 |
+| 208 | 20 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (50)
 - [implementation](#implementation) (117)
-- [math](#math) (76)
+- [math](#math) (77)
 - [number theory](#number-theory) (14)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (27)
@@ -363,6 +363,7 @@
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.cpp) |
 | 1283A | [Minutes Before the New Year](https://codeforces.com/contest/1283/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1283/A%20-%20Minutes%20Before%20the%20New%20Year/solution.cpp) |
 | 1294A | [Collecting Coins](https://codeforces.com/contest/1294/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1294/A%20-%20Collecting%20Coins/solution.cpp) |
+| 1327A | [Sum of Odd Integers](https://codeforces.com/contest/1327/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1327/A%20-%20Sum%20of%20Odd%20Integers/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
 | 1337B | [Kana and Dragon Quest game](https://codeforces.com/contest/1337/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1337/B%20-%20Kana%20and%20Dragon%20Quest%20game/solution.cpp) |
