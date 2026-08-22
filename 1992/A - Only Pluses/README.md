@@ -1,0 +1,19 @@
+<h2><a href="https://codeforces.com/contest/1992/problem/A" target="_blank" rel="noopener noreferrer">1992A — Only Pluses</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1992A](https://codeforces.com/contest/1992/problem/A) |
+
+## Topics
+`brute force` `constructive algorithms` `greedy` `math` `sortings`
+
+---
+
+## Problem Statement
+
+<div class="header" bis_skin_checked="1"><div class="title" bis_skin_checked="1">A. Only Pluses</div><div class="time-limit" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">time limit per test</div>1 second</div><div class="memory-limit" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">input</div>standard input</div><div class="output-file output-standard" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">output</div>standard output</div></div><div bis_skin_checked="1"><p>Kmes has written three integers $$$a$$$, $$$b$$$ and $$$c$$$ in order to remember that he has to give Noobish_Monk $$$a \times b \times c$$$ bananas.</p><p>Noobish_Monk has found these integers and decided to do the following <span class="tex-font-style-bf">at most $$$5$$$ times</span>:</p><ul> <li> pick one of these integers; </li><li> increase it by $$$1$$$. </li></ul><p>For example, if $$$a = 2$$$, $$$b = 3$$$ and $$$c = 4$$$, then one can increase $$$a$$$ three times by one and increase $$$b$$$ two times. After that $$$a = 5$$$, $$$b = 5$$$, $$$c = 4$$$. Then the total number of bananas will be $$$5 \times 5 \times 4 = 100$$$.</p><p>What is the maximum value of $$$a \times b \times c$$$ Noobish_Monk can achieve with these operations?</p></div><div class="input-specification" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Input</div><p>Each test contains multiple test cases. The first line of input contains a single integer $$$t$$$ ($$$1 \le t \le 1000$$$) — the number of test cases. The description of the test cases follows.</p><p>The first and only line of each test case contains three integers $$$a$$$, $$$b$$$ and $$$c$$$ ($$$1 \le a, b, c \le 10$$$) — Kmes's integers.</p></div><div class="output-specification" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Output</div><p>For each test case, output a single integer — the maximum amount of bananas Noobish_Monk can get.</p></div><div class="sample-tests" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Example</div><div class="sample-test" bis_skin_checked="1"><div class="input" bis_skin_checked="1"><div class="title" bis_skin_checked="1">Input<div title="Copy" data-clipboard-target="#id009183693790562525" id="id009363331785634847" class="input-output-copier" bis_skin_checked="1">Copy</div></div><pre id="id009183693790562525"><div class="test-example-line test-example-line-even test-example-line-0" bis_skin_checked="1">2</div><div class="test-example-line test-example-line-odd test-example-line-1" bis_skin_checked="1">2 3 4</div><div class="test-example-line test-example-line-even test-example-line-2" bis_skin_checked="1">10 1 10</div></pre></div><div class="output" bis_skin_checked="1"><div class="title" bis_skin_checked="1">Output<div title="Copy" data-clipboard-target="#id008024954866127356" id="id008898957622769212" class="input-output-copier" bis_skin_checked="1">Copy</div></div><pre id="id008024954866127356">100
+600
+</pre></div></div></div>
