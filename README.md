@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 213 | 20 |
+| 214 | 20 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (5)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (54)
+- [greedy](#greedy) (55)
 - [implementation](#implementation) (117)
 - [math](#math) (80)
 - [number theory](#number-theory) (15)
@@ -204,6 +204,7 @@
 | 1760B | [Atilla's Favorite Problem](https://codeforces.com/contest/1760/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1760/B%20-%20Atilla's%20Favorite%20Problem/solution.cpp) |
 | 1791E | [Negatives and Positives](https://codeforces.com/contest/1791/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1791/E%20-%20Negatives%20and%20Positives/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
+| 1807B | [Grab the Candies](https://codeforces.com/contest/1807/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1807/B%20-%20Grab%20the%20Candies/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1837B | [Comparison String](https://codeforces.com/contest/1837/problem/B) | 900 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1837/B%20-%20Comparison%20String/solution.c) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
