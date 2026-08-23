@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 219 | 20 |
+| 220 | 20 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (33)
+- [brute force](#brute-force) (34)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (12)
 - [data structures](#data-structures) (2)
@@ -24,7 +24,7 @@
 - [games](#games) (5)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (56)
-- [implementation](#implementation) (118)
+- [implementation](#implementation) (119)
 - [math](#math) (84)
 - [number theory](#number-theory) (15)
 - [probabilities](#probabilities) (1)
@@ -72,6 +72,7 @@
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
+| 935A | [Fafa and his Company](https://codeforces.com/contest/935/problem/A) | 800 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/935/A%20-%20Fafa%20and%20his%20Company/solution.c) |
 | 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1343/A%20-%20Candies/solution.cpp) |
 | 1462C | [Unique Number](https://codeforces.com/contest/1462/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1462/C%20-%20Unique%20Number/solution.cpp) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
@@ -290,6 +291,7 @@
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
+| 935A | [Fafa and his Company](https://codeforces.com/contest/935/problem/A) | 800 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/935/A%20-%20Fafa%20and%20his%20Company/solution.c) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/977/B%20-%20Two-gram/solution.c) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
