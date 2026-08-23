@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 220 | 20 |
+| 221 | 20 |
 
 ---
 
@@ -24,8 +24,8 @@
 - [games](#games) (5)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (56)
-- [implementation](#implementation) (119)
-- [math](#math) (84)
+- [implementation](#implementation) (120)
+- [math](#math) (85)
 - [number theory](#number-theory) (15)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (30)
@@ -342,6 +342,7 @@
 | 1915C | [Can I Square?](https://codeforces.com/contest/1915/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1915/C%20-%20Can%20I%20Square%3F/solution.cpp) |
 | 1926A | [Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1926/A%20-%20Vlad%20and%20the%20Best%20of%20Five/solution.cpp) |
 | 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.cpp) |
+| 1950C | [Clock Conversion](https://codeforces.com/contest/1950/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1950/C%20-%20Clock%20Conversion/solution.cpp) |
 | 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.cpp) |
 | 1971C | [Clock and Strings](https://codeforces.com/contest/1971/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1971/C%20-%20Clock%20and%20Strings/solution.cpp) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
@@ -428,6 +429,7 @@
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1883/C%20-%20Raspberries/solution.c) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1921A | [Square](https://codeforces.com/contest/1921/problem/A) | 800 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1921/A%20-%20Square/solution.c) |
+| 1950C | [Clock Conversion](https://codeforces.com/contest/1950/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1950/C%20-%20Clock%20Conversion/solution.cpp) |
 | 1955A | [Yogurt Sale](https://codeforces.com/contest/1955/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1955/A%20-%20Yogurt%20Sale/solution.cpp) |
 | 1980A | [Problem Generator](https://codeforces.com/contest/1980/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1980/A%20-%20Problem%20Generator/solution.cpp) |
 | 1986A | [X Axis](https://codeforces.com/contest/1986/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1986/A%20-%20X%20Axis/solution.cpp) |
