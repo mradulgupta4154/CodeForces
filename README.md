@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 223 | 20 |
+| 224 | 20 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (34)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (12)
+- [constructive algorithms](#constructive-algorithms) (13)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (10)
 - [expression parsing](#expression-parsing) (1)
@@ -25,7 +25,7 @@
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (57)
 - [implementation](#implementation) (121)
-- [math](#math) (87)
+- [math](#math) (88)
 - [number theory](#number-theory) (15)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (30)
@@ -119,6 +119,7 @@
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1992A | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1992/A%20-%20Only%20Pluses/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
+| 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
 | 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | Unrated | [Python 3](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2250/B%20-%20String%20Construction/solution.py) |
 
 ### data structures
@@ -445,6 +446,7 @@
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2132B | [The Secret Number](https://codeforces.com/contest/2132/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2132/B%20-%20The%20Secret%20Number/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
+| 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
 
 ### number theory
 
