@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 227 | 20 |
+| 228 | 20 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (34)
+- [brute force](#brute-force) (35)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (13)
 - [data structures](#data-structures) (2)
@@ -24,12 +24,12 @@
 - [games](#games) (5)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (59)
-- [implementation](#implementation) (122)
+- [implementation](#implementation) (123)
 - [math](#math) (90)
 - [number theory](#number-theory) (15)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (30)
-- [strings](#strings) (33)
+- [strings](#strings) (34)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (5)
 
@@ -96,6 +96,7 @@
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
+| 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
 
 ### combinatorics
 
@@ -357,6 +358,7 @@
 | 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
+| 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
 
 ### math
 
@@ -550,6 +552,7 @@
 | 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2094A | [Trippi Troppi](https://codeforces.com/contest/2094/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2094/A%20-%20Trippi%20Troppi/solution.cpp) |
+| 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 
 ### ternary search
