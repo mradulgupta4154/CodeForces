@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 228 | 20 |
+| 229 | 20 |
 
 ---
 
@@ -22,9 +22,9 @@
 - [dp](#dp) (10)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (5)
-- [geometry](#geometry) (2)
+- [geometry](#geometry) (3)
 - [greedy](#greedy) (59)
-- [implementation](#implementation) (123)
+- [implementation](#implementation) (124)
 - [math](#math) (90)
 - [number theory](#number-theory) (15)
 - [probabilities](#probabilities) (1)
@@ -167,6 +167,7 @@
 |---|---------|------------|----------|
 | 1791B | [Following Directions](https://codeforces.com/contest/1791/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1791/B%20-%20Following%20Directions/solution.cpp) |
 | 1986A | [X Axis](https://codeforces.com/contest/1986/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1986/A%20-%20X%20Axis/solution.cpp) |
+| 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
 
 ### greedy
 
@@ -357,6 +358,7 @@
 | 2009B | [osu!mania](https://codeforces.com/contest/2009/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2009/B%20-%20osu!mania/solution.cpp) |
 | 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
+| 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
 
