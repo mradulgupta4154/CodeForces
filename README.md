@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 234 | 20 |
+| 235 | 20 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (37)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (13)
+- [constructive algorithms](#constructive-algorithms) (14)
 - [data structures](#data-structures) (3)
 - [dp](#dp) (10)
 - [expression parsing](#expression-parsing) (1)
@@ -27,7 +27,7 @@
 - [implementation](#implementation) (129)
 - [math](#math) (91)
 - [number theory](#number-theory) (15)
-- [probabilities](#probabilities) (1)
+- [probabilities](#probabilities) (2)
 - [sortings](#sortings) (31)
 - [strings](#strings) (35)
 - [ternary search](#ternary-search) (1)
@@ -114,6 +114,7 @@
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 1335B | [Construct the String](https://codeforces.com/contest/1335/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1335/B%20-%20Construct%20the%20String/solution.cpp) |
+| 1454A | [Special Permutation](https://codeforces.com/contest/1454/problem/A) | 800 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1454/A%20-%20Special%20Permutation/solution.c) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
@@ -491,6 +492,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/9/A%20-%20Die%20Roll/solution.cpp) |
+| 1454A | [Special Permutation](https://codeforces.com/contest/1454/problem/A) | 800 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1454/A%20-%20Special%20Permutation/solution.c) |
 
 ### sortings
 
