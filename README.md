@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 244 | 20 |
+| 245 | 20 |
 
 ---
 
@@ -23,9 +23,9 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (6)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (61)
+- [greedy](#greedy) (62)
 - [implementation](#implementation) (132)
-- [math](#math) (97)
+- [math](#math) (98)
 - [number theory](#number-theory) (15)
 - [probabilities](#probabilities) (2)
 - [sortings](#sortings) (31)
@@ -205,6 +205,7 @@
 | 1311A | [Add Odd or Subtract Even](https://codeforces.com/contest/1311/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1311/A%20-%20Add%20Odd%20or%20Subtract%20Even/solution.cpp) |
 | 1337B | [Kana and Dragon Quest game](https://codeforces.com/contest/1337/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1337/B%20-%20Kana%20and%20Dragon%20Quest%20game/solution.cpp) |
 | 1342A | [Road To Zero](https://codeforces.com/contest/1342/problem/A) | 1000 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1342/A%20-%20Road%20To%20Zero/solution.c) |
+| 1348A | [Phoenix and Balance](https://codeforces.com/contest/1348/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1348/A%20-%20Phoenix%20and%20Balance/solution.cpp) |
 | 1353B | [Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1353/B%20-%20Two%20Arrays%20And%20Swaps/solution.cpp) |
 | 1360A | [Minimal Square](https://codeforces.com/contest/1360/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1360/A%20-%20Minimal%20Square/solution.cpp) |
 | 1360B | [Honest Coach](https://codeforces.com/contest/1360/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1360/B%20-%20Honest%20Coach/solution.cpp) |
@@ -420,6 +421,7 @@
 | 1337B | [Kana and Dragon Quest game](https://codeforces.com/contest/1337/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1337/B%20-%20Kana%20and%20Dragon%20Quest%20game/solution.cpp) |
 | 1342A | [Road To Zero](https://codeforces.com/contest/1342/problem/A) | 1000 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1342/A%20-%20Road%20To%20Zero/solution.c) |
 | 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1343/A%20-%20Candies/solution.cpp) |
+| 1348A | [Phoenix and Balance](https://codeforces.com/contest/1348/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1348/A%20-%20Phoenix%20and%20Balance/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1360A | [Minimal Square](https://codeforces.com/contest/1360/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1360/A%20-%20Minimal%20Square/solution.cpp) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1367/B%20-%20Even%20Array/solution.cpp) |
