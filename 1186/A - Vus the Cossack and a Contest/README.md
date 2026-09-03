@@ -1,0 +1,23 @@
+<h2><a href="https://codeforces.com/contest/1186/problem/A" target="_blank" rel="noopener noreferrer">1186A — Vus the Cossack and a Contest</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1186A](https://codeforces.com/contest/1186/problem/A) |
+
+## Topics
+`implementation`
+
+---
+
+## Problem Statement
+
+<div class="header" bis_skin_checked="1"><div class="title" bis_skin_checked="1">A. Vus the Cossack and a Contest</div><div class="time-limit" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">time limit per test</div>1 second</div><div class="memory-limit" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">input</div>standard input</div><div class="output-file output-standard" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">output</div>standard output</div></div><div bis_skin_checked="1"><p>Vus the <a href="https://en.wikipedia.org/wiki/Cossacks">Cossack</a> holds a programming competition, in which $$$n$$$ people participate. He decided to award them all with pens and notebooks. It is known that Vus has exactly $$$m$$$ pens and $$$k$$$ notebooks.</p><p>Determine whether the Cossack can reward <span class="tex-font-style-bf">all</span> participants, giving each of them at least one pen and at least one notebook.</p></div><div class="input-specification" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Input</div><p>The first line contains three integers $$$n$$$, $$$m$$$, and $$$k$$$ ($$$1 \leq n, m, k \leq 100$$$) — the number of participants, the number of pens, and the number of notebooks respectively.</p></div><div class="output-specification" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Output</div><p>Print "<span class="tex-font-style-tt">Yes</span>" if it possible to reward all the participants. Otherwise, print "<span class="tex-font-style-tt">No</span>".</p><p>You can print each letter in any case (upper or lower).</p></div><div class="sample-tests" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Examples</div><div class="sample-test" bis_skin_checked="1"><div class="input" bis_skin_checked="1"><div class="title" bis_skin_checked="1">Input<div title="Copy" data-clipboard-target="#id007646947045449914" id="id0019255214026222545" class="input-output-copier">Copy</div></div><pre id="id007646947045449914">5 8 6
+</pre></div><div class="output" bis_skin_checked="1"><div class="title" bis_skin_checked="1">Output<div title="Copy" data-clipboard-target="#id0004396004694989408" id="id005248768569261838" class="input-output-copier">Copy</div></div><pre id="id0004396004694989408">Yes
+</pre></div><div class="input" bis_skin_checked="1"><div class="title" bis_skin_checked="1">Input<div title="Copy" data-clipboard-target="#id008325662988900246" id="id006376040262756123" class="input-output-copier">Copy</div></div><pre id="id008325662988900246">3 9 3
+</pre></div><div class="output" bis_skin_checked="1"><div class="title" bis_skin_checked="1">Output<div title="Copy" data-clipboard-target="#id007493424837644678" id="id008472859803122235" class="input-output-copier">Copy</div></div><pre id="id007493424837644678">Yes
+</pre></div><div class="input" bis_skin_checked="1"><div class="title" bis_skin_checked="1">Input<div title="Copy" data-clipboard-target="#id007487350274253043" id="id009481736892448982" class="input-output-copier">Copy</div></div><pre id="id007487350274253043">8 5 20
+</pre></div><div class="output" bis_skin_checked="1"><div class="title" bis_skin_checked="1">Output<div title="Copy" data-clipboard-target="#id006541007232625359" id="id009983716609436106" class="input-output-copier">Copy</div></div><pre id="id006541007232625359">No
+</pre></div></div></div><div class="note" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Note</div><p>In the first example, there are $$$5$$$ participants. The Cossack has $$$8$$$ pens and $$$6$$$ notebooks. Therefore, he has enough pens and notebooks.</p><p>In the second example, there are $$$3$$$ participants. The Cossack has $$$9$$$ pens and $$$3$$$ notebooks. He has more than enough pens but only the minimum needed number of notebooks.</p><p>In the third example, there are $$$8$$$ participants but only $$$5$$$ pens. Since the Cossack does not have enough pens, the answer is "<span class="tex-font-style-tt">No</span>".</p></div>
