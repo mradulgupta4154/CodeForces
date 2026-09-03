@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 248 | 20 |
+| 249 | 20 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (1)
 - [binary search](#binary-search) (6)
-- [bitmasks](#bitmasks) (2)
+- [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (42)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (16)
@@ -57,6 +57,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 579A | [Raising Bacteria](https://codeforces.com/contest/579/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/579/A%20-%20Raising%20Bacteria/solution.cpp) |
+| 1527A | [And Then There Were K](https://codeforces.com/contest/1527/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1527/A%20-%20And%20Then%20There%20Were%20K/solution.cpp) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
 
 ### brute force
