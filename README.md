@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 251 | 20 |
+| 252 | 20 |
 
 ---
 
@@ -15,17 +15,17 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (42)
+- [brute force](#brute-force) (43)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (16)
+- [constructive algorithms](#constructive-algorithms) (17)
 - [data structures](#data-structures) (3)
 - [dp](#dp) (10)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (6)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (64)
+- [greedy](#greedy) (65)
 - [implementation](#implementation) (134)
-- [math](#math) (101)
+- [math](#math) (102)
 - [number theory](#number-theory) (15)
 - [probabilities](#probabilities) (2)
 - [sortings](#sortings) (31)
@@ -96,6 +96,7 @@
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1986A | [X Axis](https://codeforces.com/contest/1986/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1986/A%20-%20X%20Axis/solution.cpp) |
 | 1992A | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1992/A%20-%20Only%20Pluses/solution.cpp) |
+| 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 | 2009B | [osu!mania](https://codeforces.com/contest/2009/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2009/B%20-%20osu!mania/solution.cpp) |
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.cpp) |
@@ -131,6 +132,7 @@
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1992A | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1992/A%20-%20Only%20Pluses/solution.cpp) |
+| 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
 | 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | Unrated | [Python 3](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2250/B%20-%20String%20Construction/solution.py) |
@@ -246,6 +248,7 @@
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.cpp) |
 | 1941C | [Rudolf and the Ugly String](https://codeforces.com/contest/1941/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1941/C%20-%20Rudolf%20and%20the%20Ugly%20String/solution.cpp) |
 | 1992A | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1992/A%20-%20Only%20Pluses/solution.cpp) |
+| 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2044C | [Hard Problem](https://codeforces.com/contest/2044/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2044/C%20-%20Hard%20Problem/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
@@ -485,6 +488,7 @@
 | 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1996/A%20-%20Legs/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2000A | [Primary Task](https://codeforces.com/contest/2000/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2000/A%20-%20Primary%20Task/solution.cpp) |
+| 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.cpp) |
 | 2044C | [Hard Problem](https://codeforces.com/contest/2044/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2044/C%20-%20Hard%20Problem/solution.cpp) |
