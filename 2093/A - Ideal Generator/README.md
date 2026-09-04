@@ -1,0 +1,22 @@
+<h2><a href="https://codeforces.com/contest/2093/problem/A" target="_blank" rel="noopener noreferrer">2093A — Ideal Generator</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 2093A](https://codeforces.com/contest/2093/problem/A) |
+
+## Topics
+`math`
+
+---
+
+## Problem Statement
+
+<div class="header" bis_skin_checked="1"><div class="title" bis_skin_checked="1">A. Ideal Generator</div><div class="time-limit" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">time limit per test</div>1 second</div><div class="memory-limit" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">input</div>standard input</div><div class="output-file output-standard" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">output</div>standard output</div></div><div bis_skin_checked="1"><p>We call an array $$$a$$$, consisting of $$$k$$$ positive integers, palindromic if $$$[a_1, a_2, \dots, a_k] = [a_k, a_{k-1}, \dots, a_1]$$$. For example, the arrays $$$[1, 2, 1]$$$ and $$$[5, 1, 1, 5]$$$ are palindromic, while the arrays $$$[1, 2, 3]$$$ and $$$[21, 12]$$$ are not.</p><p>We call a number $$$k$$$ an ideal generator if any integer $$$n$$$ ($$$n \ge k$$$) can be represented as the sum of the elements of a palindromic array of length exactly $$$k$$$. Each element of the array must be greater than $$$0$$$.</p><p>For example, the number $$$1$$$ is an ideal generator because any natural number $$$n$$$ can be generated using the array $$$[n]$$$. However, the number $$$2$$$ is not an ideal generator — there is no palindromic array of length $$$2$$$ that sums to $$$3$$$.</p><p>Determine whether the given number $$$k$$$ is an ideal generator.</p></div><div class="input-specification" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Input</div><p>The first line of the input contains one integer $$$t$$$ ($$$1 \le t \le 1000$$$) — the number of test cases.</p><p>The first and only line of each test case contains one integer $$$k$$$ ($$$1 \le k \le 1000$$$).</p></div><div class="output-specification" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Output</div><p>For each number $$$k$$$, you need to output the word <span class="tex-font-style-tt">"YES"</span> if it is an ideal generator, or <span class="tex-font-style-tt">"NO"</span> otherwise.</p><p>You may output <span class="tex-font-style-tt">"Yes"</span> and <span class="tex-font-style-tt">"No"</span> in any case (for example, the strings <span class="tex-font-style-tt">"yES"</span>, <span class="tex-font-style-tt">"yes"</span>, and <span class="tex-font-style-tt">"Yes"</span> will be recognized as a positive answer).</p></div><div class="sample-tests" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Example</div><div class="sample-test" bis_skin_checked="1"><div class="input" bis_skin_checked="1"><div class="title" bis_skin_checked="1">Input<div title="Copy" data-clipboard-target="#id0059495034891918" id="id0007315126409778627" class="input-output-copier" bis_skin_checked="1">Copy</div></div><pre id="id0059495034891918"><div class="test-example-line test-example-line-even test-example-line-0" bis_skin_checked="1">5</div><div class="test-example-line test-example-line-odd test-example-line-1" bis_skin_checked="1">1</div><div class="test-example-line test-example-line-even test-example-line-2" bis_skin_checked="1">2</div><div class="test-example-line test-example-line-odd test-example-line-3" bis_skin_checked="1">3</div><div class="test-example-line test-example-line-even test-example-line-4" bis_skin_checked="1">73</div><div class="test-example-line test-example-line-odd test-example-line-5" bis_skin_checked="1">1000</div></pre></div><div class="output" bis_skin_checked="1"><div class="title" bis_skin_checked="1">Output<div title="Copy" data-clipboard-target="#id0024106109570308165" id="id003847174207525341" class="input-output-copier" bis_skin_checked="1">Copy</div></div><pre id="id0024106109570308165">YES
+NO
+YES
+YES
+NO
+</pre></div></div></div>
