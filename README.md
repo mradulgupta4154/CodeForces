@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 258 | 20 |
+| 259 | 20 |
 
 ---
 
@@ -31,7 +31,7 @@
 - [sortings](#sortings) (31)
 - [strings](#strings) (37)
 - [ternary search](#ternary-search) (1)
-- [two pointers](#two-pointers) (5)
+- [two pointers](#two-pointers) (6)
 
 ---
 
@@ -630,6 +630,7 @@
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.c) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.c) |
+| 2000B | [Seating in a Bus](https://codeforces.com/contest/2000/problem/B) | 800 | [Python 3](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2000/B%20-%20Seating%20in%20a%20Bus/solution.py) |
 
 ---
 
