@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 261 | 20 |
+| 262 | 20 |
 
 ---
 
@@ -15,9 +15,9 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (7)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (44)
+- [brute force](#brute-force) (45)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (17)
+- [constructive algorithms](#constructive-algorithms) (18)
 - [data structures](#data-structures) (4)
 - [dp](#dp) (10)
 - [expression parsing](#expression-parsing) (1)
@@ -88,6 +88,7 @@
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1703C | [Cypher](https://codeforces.com/contest/1703/problem/C) | 800 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1703/C%20-%20Cypher/solution.c) |
 | 1742D | [Coprime](https://codeforces.com/contest/1742/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1742/D%20-%20Coprime/solution.cpp) |
+| 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
@@ -127,6 +128,7 @@
 | 1335B | [Construct the String](https://codeforces.com/contest/1335/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1335/B%20-%20Construct%20the%20String/solution.cpp) |
 | 1337A | [Ichihime and Triangle](https://codeforces.com/contest/1337/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1337/A%20-%20Ichihime%20and%20Triangle/solution.cpp) |
 | 1454A | [Special Permutation](https://codeforces.com/contest/1454/problem/A) | 800 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1454/A%20-%20Special%20Permutation/solution.c) |
+| 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
