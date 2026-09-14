@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 267 | 20 |
+| 268 | 20 |
 
 ---
 
@@ -15,15 +15,15 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (7)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (45)
+- [brute force](#brute-force) (46)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (18)
 - [data structures](#data-structures) (4)
-- [dp](#dp) (10)
+- [dp](#dp) (11)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (6)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (70)
+- [greedy](#greedy) (71)
 - [implementation](#implementation) (141)
 - [math](#math) (109)
 - [number theory](#number-theory) (15)
@@ -85,6 +85,7 @@
 | 1520A | [Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1520/A%20-%20Do%20Not%20Be%20Distracted!/solution.cpp) |
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.c) |
 | 1535A | [Fair Playoff](https://codeforces.com/contest/1535/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1535/A%20-%20Fair%20Playoff/solution.cpp) |
+| 1538A | [Stone Game](https://codeforces.com/contest/1538/problem/A) | 800 | [Python 3](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1538/A%20-%20Stone%20Game/solution.py) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1703C | [Cypher](https://codeforces.com/contest/1703/problem/C) | 800 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1703/C%20-%20Cypher/solution.c) |
 | 1742D | [Coprime](https://codeforces.com/contest/1742/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1742/D%20-%20Coprime/solution.cpp) |
@@ -161,6 +162,7 @@
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 1472D | [Even-Odd Game](https://codeforces.com/contest/1472/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1472/D%20-%20Even-Odd%20Game/solution.cpp) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
+| 1538A | [Stone Game](https://codeforces.com/contest/1538/problem/A) | 800 | [Python 3](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1538/A%20-%20Stone%20Game/solution.py) |
 | 1791E | [Negatives and Positives](https://codeforces.com/contest/1791/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1791/E%20-%20Negatives%20and%20Positives/solution.cpp) |
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1883/C%20-%20Raspberries/solution.c) |
 | 1941C | [Rudolf and the Ugly String](https://codeforces.com/contest/1941/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1941/C%20-%20Rudolf%20and%20the%20Ugly%20String/solution.cpp) |
@@ -228,6 +230,7 @@
 | 1472A | [Cards for Friends](https://codeforces.com/contest/1472/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1472/A%20-%20Cards%20for%20Friends/solution.cpp) |
 | 1472D | [Even-Odd Game](https://codeforces.com/contest/1472/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1472/D%20-%20Even-Odd%20Game/solution.cpp) |
 | 1537A | [Arithmetic Array](https://codeforces.com/contest/1537/problem/A) | 800 | [GNU C11](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1537/A%20-%20Arithmetic%20Array/solution.c) |
+| 1538A | [Stone Game](https://codeforces.com/contest/1538/problem/A) | 800 | [Python 3](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1538/A%20-%20Stone%20Game/solution.py) |
 | 1551A | [Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1551/A%20-%20Polycarp%20and%20Coins/solution.cpp) |
 | 1669C | [Odd/Even Increments](https://codeforces.com/contest/1669/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1669/C%20-%20Odd%2FEven%20Increments/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
