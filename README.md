@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 268 | 20 |
+| 269 | 20 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [binary search](#binary-search) (7)
+- [binary search](#binary-search) (8)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (46)
 - [combinatorics](#combinatorics) (2)
@@ -25,7 +25,7 @@
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (71)
 - [implementation](#implementation) (141)
-- [math](#math) (109)
+- [math](#math) (110)
 - [number theory](#number-theory) (15)
 - [probabilities](#probabilities) (2)
 - [sortings](#sortings) (31)
@@ -49,6 +49,7 @@
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 1915C | [Can I Square?](https://codeforces.com/contest/1915/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1915/C%20-%20Can%20I%20Square%3F/solution.cpp) |
 | 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1996/A%20-%20Legs/solution.cpp) |
+| 2051B | [Journey](https://codeforces.com/contest/2051/problem/B) | 800 | [Python 3](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2051/B%20-%20Journey/solution.py) |
 | 2114A | [Square Year](https://codeforces.com/contest/2114/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2114/A%20-%20Square%20Year/solution.cpp) |
 | 2254E | [Chronostasis](https://codeforces.com/contest/2254/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2254/E%20-%20Chronostasis/solution.cpp) |
 | 2259G | [Index Removal](https://codeforces.com/contest/2259/problem/G) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2259/G%20-%20Index%20Removal/solution.cpp) |
@@ -515,6 +516,7 @@
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.cpp) |
 | 2044C | [Hard Problem](https://codeforces.com/contest/2044/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2044/C%20-%20Hard%20Problem/solution.cpp) |
+| 2051B | [Journey](https://codeforces.com/contest/2051/problem/B) | 800 | [Python 3](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2051/B%20-%20Journey/solution.py) |
 | 2072A | [New World, New Me, New Array](https://codeforces.com/contest/2072/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2072/A%20-%20New%20World%2C%20New%20Me%2C%20New%20Array/solution.cpp) |
 | 2093A | [Ideal Generator](https://codeforces.com/contest/2093/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2093/A%20-%20Ideal%20Generator/solution.cpp) |
 | 2114A | [Square Year](https://codeforces.com/contest/2114/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2114/A%20-%20Square%20Year/solution.cpp) |
