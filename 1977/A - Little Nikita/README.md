@@ -1,0 +1,20 @@
+<h2><a href="https://codeforces.com/contest/1977/problem/A" target="_blank" rel="noopener noreferrer">1977A — Little Nikita</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | Python 3 |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1977A](https://codeforces.com/contest/1977/problem/A) |
+
+## Topics
+`math`
+
+---
+
+## Problem Statement
+
+<div class="header" bis_skin_checked="1"><div class="title" bis_skin_checked="1">A. Little Nikita</div><div class="time-limit" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">time limit per test</div>1 second</div><div class="memory-limit" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">input</div>standard input</div><div class="output-file output-standard" bis_skin_checked="1"><div class="property-title" bis_skin_checked="1">output</div>standard output</div></div><div bis_skin_checked="1"><p>The little boy Nikita was given some cubes as a present. He decided to build a tower out of them.</p><p>Initially, the tower doesn't have any cubes. In one move, Nikita either puts exactly $$$1$$$ cube on top of the tower or removes exactly $$$1$$$ cube from the top of the tower. Is it possible that after $$$n$$$ moves, the resulting tower has exactly $$$m$$$ cubes?</p></div><div class="input-specification" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Input</div><p>Each test contains multiple test cases. The first line of input contains a single integer $$$t$$$ ($$$1 \le t \le 100$$$) — the number of test cases. The description of the test cases follows.</p><p>The only line of each test case contains two integers $$$n$$$ and $$$m$$$ ($$$1 \le n, m \le 100$$$).</p></div><div class="output-specification" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Output</div><p>For each test case, output "Yes" (without quotes) if Nikita can obtain a tower with $$$m$$$ cubes, and "No" (without quotes) otherwise.</p><p>You can output each letter in any case (lowercase or uppercase). For example, the strings "yEs", "yes", "Yes", and "YES" will be accepted as a positive answer.</p></div><div class="sample-tests" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Example</div><div class="sample-test" bis_skin_checked="1"><div class="input" bis_skin_checked="1"><div class="title" bis_skin_checked="1">Input<div title="Copy" data-clipboard-target="#id00744285862955815" id="id0003196226713230599" class="input-output-copier" bis_skin_checked="1">Copy</div></div><pre id="id00744285862955815"><div class="test-example-line test-example-line-even test-example-line-0" bis_skin_checked="1">3</div><div class="test-example-line test-example-line-odd test-example-line-1" bis_skin_checked="1">3 3</div><div class="test-example-line test-example-line-even test-example-line-2" bis_skin_checked="1">2 4</div><div class="test-example-line test-example-line-odd test-example-line-3" bis_skin_checked="1">5 3</div></pre></div><div class="output" bis_skin_checked="1"><div class="title" bis_skin_checked="1">Output<div title="Copy" data-clipboard-target="#id008819476406867679" id="id009047488457307266" class="input-output-copier" bis_skin_checked="1">Copy</div></div><pre id="id008819476406867679">Yes
+No
+Yes
+</pre></div></div></div><div class="note" bis_skin_checked="1"><div class="section-title" bis_skin_checked="1">Note</div><p>In the first test case, Nikita can put $$$1$$$ cube on top of the tower $$$3$$$ times in a row, so the answer is "Yes".</p><p>In the second test case, Nikita can only end up with either a tower with no blocks or a tower with $$$2$$$ blocks, so the answer is "No".</p></div>
