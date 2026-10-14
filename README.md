@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 6 |
+| 8 | 7 |
 
 ---
 
@@ -14,10 +14,11 @@
 
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [math](#math) (5)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
+- [strings](#strings) (1)
 
 ---
 
@@ -39,6 +40,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1303A | [Erasing Zeroes](https://codeforces.com/contest/1303/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1303/A%20-%20Erasing%20Zeroes/solution.cpp) |
 | 2117A | [False Alarm](https://codeforces.com/contest/2117/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2117/A%20-%20False%20Alarm/solution.cpp) |
 
 ### math
@@ -63,6 +65,12 @@
 |---|---------|------------|----------|
 | 1980B | [Choosing Cubes](https://codeforces.com/contest/1980/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1980/B%20-%20Choosing%20Cubes/solution.cpp) |
 | 1992B | [Angry Monk](https://codeforces.com/contest/1992/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1992/B%20-%20Angry%20Monk/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1303A | [Erasing Zeroes](https://codeforces.com/contest/1303/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1303/A%20-%20Erasing%20Zeroes/solution.cpp) |
 
 ---
 
