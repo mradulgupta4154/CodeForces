@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 7 |
+| 12 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [greedy](#greedy) (4)
+- [greedy](#greedy) (5)
 - [implementation](#implementation) (3)
 - [math](#math) (7)
 - [number theory](#number-theory) (1)
@@ -32,6 +32,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1385B | [Restore the Permutation by Merger](https://codeforces.com/contest/1385/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1385/B%20-%20Restore%20the%20Permutation%20by%20Merger/solution.cpp) |
 | 1675A | [Food for Animals](https://codeforces.com/contest/1675/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1675/A%20-%20Food%20for%20Animals/solution.cpp) |
 | 1992B | [Angry Monk](https://codeforces.com/contest/1992/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/1992/B%20-%20Angry%20Monk/solution.cpp) |
 | 2117A | [False Alarm](https://codeforces.com/contest/2117/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/mradulgupta4154/CodeForces/blob/HEAD/2117/A%20-%20False%20Alarm/solution.cpp) |
